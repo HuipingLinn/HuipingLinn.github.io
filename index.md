@@ -4,7 +4,7 @@ title: "Huiping Lin - Curriculum Vitae"
 ---
 
 <p align="center">
-  <img src="Huiping.png" alt="Huiping Lin" width="170" style="border-radius: 50%; margin-bottom: 15px;">
+  <img src="Huiping_copy.jpg" alt="Huiping Lin" width="170" style="border-radius: 50%; margin-bottom: 15px;">
 </p>
 
 # Huiping Lin
