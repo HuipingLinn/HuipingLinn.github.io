@@ -4,7 +4,7 @@ title: "Huiping Lin - Curriculum Vitae"
 ---
 
 <p align="center">
-  <img src="Huiping.png" alt="Huiping Lin" width="160" style="border-radius: 50%; margin-bottom: 15px;">
+  <img src="Huiping.png" alt="Huiping Lin" width="170" style="border-radius: 50%; margin-bottom: 15px;">
 </p>
 
 # Huiping Lin
@@ -85,5 +85,6 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 **Technologies:** Qt, MySQL, Git, Docker, OpenCV, PyTorch, TensorFlow  
 
 ---
-
+<p align="center"> <a href="Huiping_Curriculum_Vitae.pdf" download> <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge" alt="Download CV"> </a> </p>
+---
 *Last updated: October 2025*
