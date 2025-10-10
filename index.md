@@ -17,7 +17,7 @@ title: "Huiping Lin - Curriculum Vitae"
 
 ##  Contact Address
 
-**Affiliation:** School of Microelectronics and Communication Engineering, Chongqing University, Chongqing, China  
+**Affiliation:** School of Microelectronics and Communication Engineering, Chongqing University  
 **Address:** No. 55, University Town South Road, Shapingba District, Chongqing, China  
 **Portfolio:** [https://huipinglinn.github.io](https://huipinglinn.github.io)
 
@@ -25,7 +25,7 @@ title: "Huiping Lin - Curriculum Vitae"
 
 ##  Research Interests
 
-SAR image understanding and interpretation, polarimetric SAR target detection and recognition, polarimetric theory, machine learning, and computer vision.
+SAR image understanding and interpretation, polarimetric SAR target detection and recognition, polarimetric theory, machine learning and computer vision.
 
 ---
 
