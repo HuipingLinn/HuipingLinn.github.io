@@ -3,6 +3,10 @@ layout: default
 title: "Huiping Lin - Curriculum Vitae"
 ---
 
+<p align="center">
+  <img src="Huiping.jpg" alt="Huiping Lin" width="160" style="border-radius: 50%; margin-bottom: 15px;">
+</p>
+
 # Huiping Lin
 
 📧 [linhuiping15@gmail.com](mailto:linhuiping15@gmail.com)  
