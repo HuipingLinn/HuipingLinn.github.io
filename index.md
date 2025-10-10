@@ -13,6 +13,11 @@ title: "Huiping Lin - Curriculum Vitae"
 💻 [GitHub](https://github.com/HuipingLinn)  
 📍 [Chongqing, China](https://www.google.com/maps/place/%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6/@29.5578613,106.4242113,14z)  
 
+<p align="center">
+  <a href="Huiping_Curriculum_Vitae.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge" alt="Download CV">
+  </a>
+</p>
 ---
 
 ## 🏢 Contact Address
