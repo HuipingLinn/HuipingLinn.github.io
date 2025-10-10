@@ -8,14 +8,14 @@ title: "Huiping Lin - Curriculum Vitae"
 </p>
 
 # Huiping Lin
-📧 [linhuiping15@gmail.com](mailto:linhuiping15@gmail.com)  
-💻 [GitHub](https://github.com/HuipingLinn)  
-📍 [Chongqing, China](https://www.google.com/maps/place/%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6/@29.5578613,106.4242113,14z/data=!4m6!3m5!1s0x36eccb948120ecb1:0xbcacf824c7bdf803!8m2!3d29.56488!4d106.468097!16zL20vMDJreTdn?entry=ttu&g_ep=EgoyMDI1MTAwNi4wIKXMDSoASAFQAw%3D%3D)  
+ [linhuiping15@gmail.com](mailto:linhuiping15@gmail.com)  
+ [GitHub](https://github.com/HuipingLinn)  
+ [Chongqing, China](https://www.google.com/maps/place/%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6/@29.5578613,106.4242113,14z/data=!4m6!3m5!1s0x36eccb948120ecb1:0xbcacf824c7bdf803!8m2!3d29.56488!4d106.468097!16zL20vMDJreTdn?entry=ttu&g_ep=EgoyMDI1MTAwNi4wIKXMDSoASAFQAw%3D%3D)  
 
 
 ---
 
-## 🏢 Contact Address
+##  Contact Address
 
 **Affiliation:** School of Microelectronics and Communication Engineering, Chongqing University, Chongqing, China  
 **Address:** No. 55, University Town South Road, Shapingba District, Chongqing, China  
@@ -23,13 +23,13 @@ title: "Huiping Lin - Curriculum Vitae"
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 SAR image understanding and interpretation, polarimetric SAR target detection and recognition, polarimetric theory, machine learning, and computer vision.
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Tsinghua University** — *Beijing, China*  
 - **B.E.** in Electronic Engineering (Aug 2011 – Jul 2015)  
@@ -37,21 +37,21 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ### **Chongqing University** — Professor  
-📍 *Chongqing, China | Dec 2024 – Present (Full-time)*  
+ *Chongqing, China | Dec 2024 – Present (Full-time)*  
 - Engaged in the field of polarimetric SAR image understanding and interpretation, focusing on polarimetric SAR target detection and recognition.  
 - Combined SAR imaging geometry, target electromagnetic scattering processes, and deep learning techniques represented by neural networks.  
 - Proposed a series of polarimetric SAR filtering methods and target recognition approaches based on polarimetric scattering mechanisms, improving SAR image intelligence collection efficiency.
 
 ### **Fudan University** — Assistant Researcher  
-📍 *Shanghai, China | Jul 2022 – Nov 2024 (Full-time)*  
+ *Shanghai, China | Jul 2022 – Nov 2024 (Full-time)*  
 - Worked on the **“Intelligent Target Recognition in Polarimetric SAR Images”** project at the Key Laboratory for Information Science of Electromagnetic Waves (MoE).
 
 ---
 
-## 📚 Publications
+##  Publications
 
 1. **Lin H**, Xie Z, Zeng L, et al. *Multi-scale time-frequency representation fusion network for target recognition in SAR imagery.* **Remote Sensing**, 2025, 17(16): 2786.  
 2. **Lin H**, Yin J, Yang J, et al. *Interpreting neural network pattern with pruning for PolSAR target recognition.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
@@ -71,7 +71,7 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 ---
 
-## 🏅 Awards & Achievements
+##  Awards & Achievements
 
 - Shanghai Super Postdoctoral Incentive Program, 2022  
 - Young Scientists of the 5th National Radar Earth Observation Conference, 2025  
@@ -79,7 +79,7 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 ---
 
-## 💻 Skills
+##  Skills
 
 **Programming Languages:** C/C++, Python, MATLAB  
 **Technologies:** Qt, MySQL, Git, Docker, OpenCV, PyTorch, TensorFlow  
