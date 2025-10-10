@@ -3,7 +3,7 @@ layout: default
 title: "Huiping Lin - Curriculum Vitae"
 ---
 
-# 🧑‍🔬 Huiping Lin
+# Huiping Lin
 
 📧 [linhuiping15@gmail.com](mailto:linhuiping15@gmail.com)  
 💻 [GitHub](https://github.com/HuipingLinn)  
