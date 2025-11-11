@@ -55,25 +55,21 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 ##  Publications
 
-1. **Lin H**, Xie Z, Zeng L, et al.
-   *Multi-scale time-frequency representation fusion network for target recognition in SAR imagery.*
-   **Remote Sensing**, 2025, 17(16): 2786.  
-3. **Lin H**, Yin J, Yang J, et al.
-   *Interpreting neural network pattern with pruning for PolSAR target recognition.*
-   **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
-5. Wang Y, Jia H, Fu S, **Lin H\***, et al. *Reinforcement learning for SAR target orientation inference with the differentiable SAR renderer.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024, 62: 1–13.  
-6. **Lin H**, Yang J, Xu F. *PolSAR target recognition with CNNs optimizing discrete polarimetric correlation pattern.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
-7. **Lin H**, Wang H, Yin J, et al. *Local climate zone classification via semi-supervised multimodal multiscale transformer.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
-8. **Lin H**, Wang H, Xu F, et al. *Target recognition for SAR images enhanced by polarimetric information.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
-9. **Lin H**, Yin J, Yang J, et al. *Residual in residual scaling networks for PolSAR image despeckling.* **IEEE Transactions on Geoscience and Remote Sensing**, 2023.  
-10. **Lin H**, Wang H, Wang J, et al. *A novel ship detection method via generalized polarization relative entropy for PolSAR images.* **IEEE Geoscience and Remote Sensing Letters**, 2020, 19: 1–5.  
-11. **Lin H**, Yuan F, Xing C, et al. *An edge attention‐based geodesic distance for PolSAR image superpixel segmentation.* **Electronics Letters**, 2020, 56(10): 510–512.  
-12. **Lin H**, Chen H, Wang H, et al. *Ship detection for PolSAR images via task-driven discriminative dictionary learning.* **Remote Sensing**, 2019, 11(7): 769.  
-13. **Lin H**, Chen H, Jin K, et al. *Ship detection with superpixel-level Fisher vector in high-resolution SAR images.* **IEEE Geoscience and Remote Sensing Letters**, 2019, 17(2): 247–251.  
-14. **Lin H**, Song S, Yang J. *Ship classification based on MSHOG feature and task-driven dictionary learning with structured incoherent constraints in SAR images.* **Remote Sensing**, 2018, 10(2): 190.  
-15. Xing Y, **Lin H**, Wang F, et al. *SAR2Canopy: A framework integrating scattering model with neural networks for canopy height estimation from airborne P-Band SAR data.* **IEEE Transactions on Geoscience and Remote Sensing**, 2025.  
-16. Li R, Wei J, **Lin H**, et al. *Learning terrain scattering models from massive multi-source Earth observation data.* **IEEE Transactions on Geoscience and Remote Sensing**, 2025.  
-17. Zeng L, Du Y, **Lin H**, et al. *A novel region-based image registration method for multisource remote sensing images via CNN.* **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2020, 14: 1821–1831.
+1. **Lin H**, Xie Z, Zeng L, et al. *Multi-scale time-frequency representation fusion network for target recognition in SAR imagery.* **Remote Sensing**, 2025, 17(16): 2786.  
+2. **Lin H**, Yin J, Yang J, et al. *Interpreting neural network pattern with pruning for PolSAR target recognition.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
+3. Wang Y, Jia H, Fu S, **Lin H\***, et al. *Reinforcement learning for SAR target orientation inference with the differentiable SAR renderer.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024, 62: 1–13.  
+4. **Lin H**, Yang J, Xu F. *PolSAR target recognition with CNNs optimizing discrete polarimetric correlation pattern.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
+5. **Lin H**, Wang H, Yin J, et al. *Local climate zone classification via semi-supervised multimodal multiscale transformer.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
+6. **Lin H**, Wang H, Xu F, et al. *Target recognition for SAR images enhanced by polarimetric information.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
+7. **Lin H**, Yin J, Yang J, et al. *Residual in residual scaling networks for PolSAR image despeckling.* **IEEE Transactions on Geoscience and Remote Sensing**, 2023.  
+8. **Lin H**, Wang H, Wang J, et al. *A novel ship detection method via generalized polarization relative entropy for PolSAR images.* **IEEE Geoscience and Remote Sensing Letters**, 2020, 19: 1–5.  
+9. **Lin H**, Yuan F, Xing C, et al. *An edge attention‐based geodesic distance for PolSAR image superpixel segmentation.* **Electronics Letters**, 2020, 56(10): 510–512.  
+10. **Lin H**, Chen H, Wang H, et al. *Ship detection for PolSAR images via task-driven discriminative dictionary learning.* **Remote Sensing**, 2019, 11(7): 769.  
+11. **Lin H**, Chen H, Jin K, et al. *Ship detection with superpixel-level Fisher vector in high-resolution SAR images.* **IEEE Geoscience and Remote Sensing Letters**, 2019, 17(2): 247–251.  
+12. **Lin H**, Song S, Yang J. *Ship classification based on MSHOG feature and task-driven dictionary learning with structured incoherent constraints in SAR images.* **Remote Sensing**, 2018, 10(2): 190.  
+13. Xing Y, **Lin H**, Wang F, et al. *SAR2Canopy: A framework integrating scattering model with neural networks for canopy height estimation from airborne P-Band SAR data.* **IEEE Transactions on Geoscience and Remote Sensing**, 2025.  
+14. Li R, Wei J, **Lin H**, et al. *Learning terrain scattering models from massive multi-source Earth observation data.* **IEEE Transactions on Geoscience and Remote Sensing**, 2025.  
+15. Zeng L, Du Y, **Lin H**, et al. *A novel region-based image registration method for multisource remote sensing images via CNN.* **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2020, 14: 1821–1831.
 
 
 ---
