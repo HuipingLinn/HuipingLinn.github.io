@@ -53,9 +53,9 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 ##  Publications
 
-**Lin H**, Xie Z, Zeng L, et al. *Multi-scale time-frequency representation fusion network for target recognition in SAR imagery.* **Remote Sensing**, 2025, 17(16): 2786.  
-**Lin H**, Yin J, Yang J, et al. *Interpreting neural network pattern with pruning for PolSAR target recognition.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
-Wang Y, Jia H, Fu S, **Lin H\***, et al. *Reinforcement learning for SAR target orientation inference with the differentiable SAR renderer.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024, 62: 1–13.  
+1. **Lin H**, Xie Z, Zeng L, et al. *Multi-scale time-frequency representation fusion network for target recognition in SAR imagery.* **Remote Sensing**, 2025, 17(16): 2786.  
+2. **Lin H**, Yin J, Yang J, et al. *Interpreting neural network pattern with pruning for PolSAR target recognition.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
+3. Wang Y, Jia H, Fu S, **Lin H\***, et al. *Reinforcement learning for SAR target orientation inference with the differentiable SAR renderer.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024, 62: 1–13.  
 4. **Lin H**, Yang J, Xu F. *PolSAR target recognition with CNNs optimizing discrete polarimetric correlation pattern.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
 5. **Lin H**, Wang H, Yin J, et al. *Local climate zone classification via semi-supervised multimodal multiscale transformer.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
 6. **Lin H**, Wang H, Xu F, et al. *Target recognition for SAR images enhanced by polarimetric information.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024.  
