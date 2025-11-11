@@ -54,7 +54,7 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 ---
 
 ##  Publications
-|  **Publications** |
+
 |---|
 | 1. **Lin H**, Xie Z, Zeng L, et al. *Multi-scale time-frequency representation fusion network for target recognition in SAR imagery.* **Remote Sensing**, 2025, 17(16): 2786. |
 | 2. **Lin H**, Yin J, Yang J, et al. *Interpreting neural network pattern with pruning for PolSAR target recognition.* **IEEE Transactions on Geoscience and Remote Sensing**, 2024. |
