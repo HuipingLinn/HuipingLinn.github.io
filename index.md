@@ -66,10 +66,11 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 9. **Lin H**, Yuan F, Xing C, et al. *An edge attention‐based geodesic distance for PolSAR image superpixel segmentation.* **Electronics Letters**, 2020, 56(10): 510–512.  
 10. **Lin H**, Chen H, Wang H, et al. *Ship detection for PolSAR images via task-driven discriminative dictionary learning.* **Remote Sensing**, 2019, 11(7): 769.  
 11. **Lin H**, Chen H, Jin K, et al. *Ship detection with superpixel-level Fisher vector in high-resolution SAR images.* **IEEE Geoscience and Remote Sensing Letters**, 2019, 17(2): 247–251.  
-12. **Lin H**, Song S, Yang J. *Ship classification based on MSHOG feature and task-driven dictionary learning with structured incoherent constraints in SAR images.* **Remote Sensing**, 2018, 10(2): 190.  
-13. Xing Y, **Lin H**, Wang F, et al. *SAR2Canopy: A framework integrating scattering model with neural networks for canopy height estimation from airborne P-Band SAR data.* **IEEE Transactions on Geoscience and Remote Sensing**, 2025.  
-14. Li R, Wei J, **Lin H**, et al. *Learning terrain scattering models from massive multi-source Earth observation data.* **IEEE Transactions on Geoscience and Remote Sensing**, 2025.  
-15. Zeng L, Du Y, **Lin H**, et al. *A novel region-based image registration method for multisource remote sensing images via CNN.* **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2020, 14: 1821–1831.
+12. **Lin H**, Song S, Yang J. *Ship classification based on MSHOG feature and task-driven dictionary learning with structured incoherent constraints in SAR images.* **Remote Sensing**, 2018, 10(2): 190.
+
+14. Xing Y, **Lin H**, Wang F, et al. *SAR2Canopy: A framework integrating scattering model with neural networks for canopy height estimation from airborne P-Band SAR data.* **IEEE Transactions on Geoscience and Remote Sensing**, 2025.  
+15. Li R, Wei J, **Lin H**, et al. *Learning terrain scattering models from massive multi-source Earth observation data.* **IEEE Transactions on Geoscience and Remote Sensing**, 2025.  
+16. Zeng L, Du Y, **Lin H**, et al. *A novel region-based image registration method for multisource remote sensing images via CNN.* **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2020, 14: 1821–1831.
 
 
 ---
