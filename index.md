@@ -2,6 +2,26 @@
 layout: default
 title: "Huiping Lin - Curriculum Vitae"
 ---
+<style>
+/*  Publication 列表专用 */
+.pub-list { list-style: none; padding-left: 0; }
+.pub-list li { 
+    position: relative; 
+    padding-left: 3.2em; 
+    margin-bottom: 0.8em; 
+    line-height: 1.7; 
+}
+.pub-list li::before { 
+    counter-increment: pub; 
+    content: counter(pub) "."; 
+    position: absolute; 
+    left: 0; 
+    font-weight: 600; 
+    color: #0059ff; 
+}
+ol.pub-list { counter-reset: pub; }
+</style>
+
 
 <p align="center">
   <img src="Huiping.png" alt="Huiping Lin" width="170" style="border-radius: 50%; margin-bottom: 15px;">
@@ -53,25 +73,7 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 ##  Publications
 
-<style>
-/*  Publication 列表专用 */
-.pub-list { list-style: none; padding-left: 0; }
-.pub-list li { 
-    position: relative; 
-    padding-left: 3.2em; 
-    margin-bottom: 0.8em; 
-    line-height: 1.7; 
-}
-.pub-list li::before { 
-    counter-increment: pub; 
-    content: counter(pub) "."; 
-    position: absolute; 
-    left: 0; 
-    font-weight: 600; 
-    color: #0059ff; 
-}
-ol.pub-list { counter-reset: pub; }
-</style>
+
 
 <ol class="pub-list">
 <li><strong>Lin H</strong>, Xie Z, Zeng L, et al. Multi-scale time-frequency representation fusion network for target recognition in SAR imagery. <em>Remote Sensing</em>, 2025, 17(16): 2786.</li>
