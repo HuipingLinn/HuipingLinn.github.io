@@ -9,7 +9,7 @@ title: "Huiping Lin - Curriculum Vitae"
 
 # Huiping Lin
  [linhuiping15@gmail.com](mailto:linhuiping15@gmail.com)  
- [GitHub](https://github.com/HuipingLinn)  [ORCID](https://orcid.org/0000-0002-6393-0665)
+ [GitHub](https://github.com/HuipingLinn)  
  [Chongqing, China](https://www.google.com/maps/place/%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6/@29.5578613,106.4242113,14z/data=!4m6!3m5!1s0x36eccb948120ecb1:0xbcacf824c7bdf803!8m2!3d29.56488!4d106.468097!16zL20vMDJreTdn?entry=ttu&g_ep=EgoyMDI1MTAwNi4wIKXMDSoASAFQAw%3D%3D)  
 
 
