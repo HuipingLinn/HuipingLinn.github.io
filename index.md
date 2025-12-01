@@ -32,8 +32,8 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 ##  Education
 
 **Tsinghua University** — *Beijing, China*  
-- **B.E.** in Electronic Engineering (Aug 2011 – Jul 2015)  
-- **Ph.D.** in Information and Communication Engineering (Aug 2015 – Jun 2020)
+- **B.E.** in Electronic Engineering *(Aug 2011 – Jul 2015)*  
+- **Ph.D.** in Information and Communication Engineering *(Aug 2015 – Jun 2020)*
 
 ---
 
