@@ -18,7 +18,7 @@ title: "Huiping Lin - Curriculum Vitae"
 ##  Contact Address
 
 **Affiliation:** School of Microelectronics and Communication Engineering, Chongqing University  
-**Address:** No. 55, University Town South Road, Shapingba District, Chongqing, China  
+**Address:** No. 174, Shazheng Street, Shapingba District, Chongqing, China  
 **Portfolio:** [https://huipinglinn.github.io](https://huipinglinn.github.io)
 
 ---
