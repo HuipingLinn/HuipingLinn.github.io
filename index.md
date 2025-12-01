@@ -25,7 +25,7 @@ title: "Huiping Lin - Curriculum Vitae"
 
 ##  Research Interests
 
-SAR image understanding and interpretation, polarimetric SAR target detection and recognition, polarimetric theory, machine learning and computer vision.
+SAR image understanding and interpretation, polarimetric SAR target detection and recognition, polarimetry, machine learning and computer vision.
 
 ---
 
