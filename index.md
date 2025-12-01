@@ -92,9 +92,9 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 ##  Awards & Achievements
 
-- Shanghai Super Postdoctoral Incentive Program, 2022  
 - Young Scientists of the 5th National Radar Earth Observation Conference, 2025  
-- Outstanding Postdoctoral Fellows of Fudan University, 2024  
+- Outstanding Postdoctoral Fellows of Fudan University, 2024
+- Shanghai Super Postdoctoral Incentive Program, 2022  
 
 ---
 
