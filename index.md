@@ -53,35 +53,37 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 ##  Publications
 
-1.  **H. Lin**, Z. Xie, L. Zeng, and J. Yin, "Multi-scale time-frequency representation fusion network for target recognition in sar imagery," *Remote Sensing*, vol. 17, no. 16, p. 2786, 2025.
+1. **H. Lin**, X. Su, Z. Zeng, C. Xing, and J. Yin, “Speckle2self: Learning self-supervised despeckling with attention mechanism for SAR images,” *Remote Sensing*, vol. 17, no. 23, p. 3840, 2025
+2. Z. Zeng, Z. Chen, J. Yin, and **H. Lin\***, “Ship detection in SAR images using sparse R-CNN with wavelet deformable convolution and attention mechanism,” *Remote Sensing*, vol. 17, no. 23, p. 3794, 2025
+3.  **H. Lin**, Z. Xie, L. Zeng, and J. Yin, "Multi-scale time-frequency representation fusion network for target recognition in sar imagery," *Remote Sensing*, vol. 17, no. 16, p. 2786, 2025.
 
-2.  **H. Lin**, J. Yin, J. Yang, and F. Xu, "Interpreting neural network pattern with pruning for polsar target recognition," *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
+4.  **H. Lin**, J. Yin, J. Yang, and F. Xu, "Interpreting neural network pattern with pruning for polsar target recognition," *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
 
-3.  Y. Wang, H. Jia, S. Fu, H., **H. Lin\***, and F. Xu, "Reinforcement learning for sar target orientation inference with the differentiable sar renderer," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–13, 2024.
+5.  Y. Wang, H. Jia, S. Fu, H., **H. Lin\***, and F. Xu, "Reinforcement learning for sar target orientation inference with the differentiable sar renderer," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–13, 2024.
 
-4.  **H. Lin**, J. Yang, and F. Xu, "Polsar target recognition with cnns optimizing discrete polarimetric correlation pattern," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–14, 2024.
+6.  **H. Lin**, J. Yang, and F. Xu, "Polsar target recognition with cnns optimizing discrete polarimetric correlation pattern," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–14, 2024.
 
-5.  **H. Lin**, H. Wang, J. Yin, and J. Yang, "Local climate zone classification via semi-supervised multimodal multiscale transformer," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–17, 2024.
+7.  **H. Lin**, H. Wang, J. Yin, and J. Yang, "Local climate zone classification via semi-supervised multimodal multiscale transformer," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–17, 2024.
 
-6.  **H. Lin**, H. Wang, F. Xu, and Y.-Q. Jin, "Target recognition for sar images enhanced by polarimetric information," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–16, 2024.
+8.  **H. Lin**, H. Wang, F. Xu, and Y.-Q. Jin, "Target recognition for sar images enhanced by polarimetric information," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–16, 2024.
 
-7.  **H. Lin**, K. Jin, J. Yin, J. Yang, T. Zhang, F. Xu, and Y.-Q. Jin, "Residual in residual scaling networks for polarimetric sar image despeckling," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 61, pp. 1–17, 2023.
+9.  **H. Lin**, K. Jin, J. Yin, J. Yang, T. Zhang, F. Xu, and Y.-Q. Jin, "Residual in residual scaling networks for polarimetric sar image despeckling," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 61, pp. 1–17, 2023.
 
-8.  **H. Lin**, H. Wang, J. Wang, J. Yin, and J. Yang, "A novel ship detection method via generalized polarization relative entropy for polsar images," *IEEE Geoscience and Remote Sensing Letters*, vol. 19, pp. 1–5, 2020.
+10.  **H. Lin**, H. Wang, J. Wang, J. Yin, and J. Yang, "A novel ship detection method via generalized polarization relative entropy for polsar images," *IEEE Geoscience and Remote Sensing Letters*, vol. 19, pp. 1–5, 2020.
 
-9.  **H. Lin**, F. Yuan, C. Xing, and J. Yang, "An edge attention-based geodesic distance for polsar image superpixel segmentation," *Electronics Letters*, vol. 56, no. 10, pp. 510–512, 2020.
+11.  **H. Lin**, F. Yuan, C. Xing, and J. Yang, "An edge attention-based geodesic distance for polsar image superpixel segmentation," *Electronics Letters*, vol. 56, no. 10, pp. 510–512, 2020.
 
-10. **H. Lin**, H. Chen, K. Jin, L. Zeng, and J. Yang, "Ship detection with superpixel-level fisher vector in high-resolution sar images," *IEEE Geoscience and Remote Sensing Letters*, vol. 17, no. 2, pp. 247–251, 2019.
+12. **H. Lin**, H. Chen, K. Jin, L. Zeng, and J. Yang, "Ship detection with superpixel-level fisher vector in high-resolution sar images," *IEEE Geoscience and Remote Sensing Letters*, vol. 17, no. 2, pp. 247–251, 2019.
 
-11. **H. Lin**, H. Chen, H. Wang, J. Yin, and J. Yang, "Ship detection for polsar images via task-driven discriminative dictionary learning," *Remote Sensing*, vol. 11, no. 7, p. 769, 2019.
+13. **H. Lin**, H. Chen, H. Wang, J. Yin, and J. Yang, "Ship detection for polsar images via task-driven discriminative dictionary learning," *Remote Sensing*, vol. 11, no. 7, p. 769, 2019.
 
-12. **H. Lin**, S. Song, and J. Yang, "Ship classification based on mshog feature and task-driven dictionary learning with structured incoherent constraints in sar images," *Remote Sensing*, vol. 10, no. 2, p. 190, 2018.
+14. **H. Lin**, S. Song, and J. Yang, "Ship classification based on mshog feature and task-driven dictionary learning with structured incoherent constraints in sar images," *Remote Sensing*, vol. 10, no. 2, p. 190, 2018.
 
-13. Y. Xing, **H. Lin**, F. Wang, F. Xue, and F. Xu, "Sar2canopy: A framework integrating scattering model with neural networks for canopy height estimation from airborne p-band sar data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
+15. Y. Xing, **H. Lin**, F. Wang, F. Xue, and F. Xu, "Sar2canopy: A framework integrating scattering model with neural networks for canopy height estimation from airborne p-band sar data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
 
-14. R. Li, J. Wei, H., **H. Lin** and F. Xu, "Learning terrain scattering models from massive multi-source earth observation data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
+16. R. Li, J. Wei, H., **H. Lin** and F. Xu, "Learning terrain scattering models from massive multi-source earth observation data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
 
-15. L. Zeng, Y. Du, **H. Lin**, J. Wang, J. Yin, and J. Yang, "A novel region-based image registration method for multisource remote sensing images via cnn," *IEEE journal of selected topics in applied earth observations and remote sensing*, vol. 14, pp. 1821–1831, 2020.
+17. L. Zeng, Y. Du, **H. Lin**, J. Wang, J. Yin, and J. Yang, "A novel region-based image registration method for multisource remote sensing images via cnn," *IEEE journal of selected topics in applied earth observations and remote sensing*, vol. 14, pp. 1821–1831, 2020.
 
 
 ---
