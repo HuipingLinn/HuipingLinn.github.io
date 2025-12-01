@@ -81,7 +81,7 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 14. <b><u>H. Lin</u></b>, S. Song, and J. Yang, "Ship classification based on MSHOG feature and task-driven dictionary learning with structured incoherent constraints in SAR images," *Remote Sensing*, vol. 10, no. 2, p. 190, 2018.
 
-15. Y. Xing, <b><u>H. Lin</u></b>, F. Wang, F. Xue, and F. Xu, "SAR2canopy: A framework integrating scattering model with neural networks for canopy height estimation from airborne p-band SAR data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
+15. Y. Xing, <b><u>H. Lin</u></b>, F. Wang, F. Xue, and F. Xu, "SAR2Canopy: A framework integrating scattering model with neural networks for canopy height estimation from airborne p-band SAR data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
 
 16. R. Li, J. Wei, H., <b><u>H. Lin</u></b> and F. Xu, "Learning terrain scattering models from massive multi-source earth observation data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025.
 
