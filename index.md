@@ -57,7 +57,7 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 2. <b><ins>H. Lin</ins></b>, X. Su, Z. Zeng, C. Xing, and J. Yin, “Speckle2self: Learning self-supervised despeckling with attention mechanism for SAR images,” *Remote Sensing*, vol. 17, no. 23, p. 3840, 2025
 
-3. Z. Zeng, Z. Chen, J. Yin, and <b><ins>H. Lin*</ins></b>, “Ship detection in SAR images using sparse R-CNN with wavelet deformable convolution and attention mechanism,” *Remote Sensing*, vol. 17, no. 23, p. 3794, 2025
+3. Z. Zeng, Z. Chen, J. Yin, and <b><ins>H. Lin\*</ins></b>, “Ship detection in SAR images using sparse R-CNN with wavelet deformable convolution and attention mechanism,” *Remote Sensing*, vol. 17, no. 23, p. 3794, 2025
 
 4.  <b><ins>H. Lin</ins></b>, Z. Xie, L. Zeng, and J. Yin, "Multi-scale time-frequency representation fusion network for target recognition in SAR imagery," *Remote Sensing*, vol. 17, no. 16, p. 2786, 2025.
 
