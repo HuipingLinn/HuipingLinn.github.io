@@ -63,7 +63,7 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 5.  <b><ins>H. Lin</ins></b>, J. Yin, J. Yang, and F. Xu, "Interpreting neural network pattern with pruning for PolSAR target recognition," *IEEE Transactions on Geoscience and Remote Sensing*, 2024.
 
-6.  Y. Wang, H. Jia, S. Fu, H., <b><ins>H. Lin*</ins></b>, and F. Xu, "Reinforcement learning for SAR target orientation inference with the differentiable SAR renderer," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–13, 2024.
+6.  Y. Wang, H. Jia, S. Fu, H., <b><ins>H. Lin\*</ins></b>, and F. Xu, "Reinforcement learning for SAR target orientation inference with the differentiable SAR renderer," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–13, 2024.
 
 7.  <b><ins>H. Lin</ins></b>, J. Yang, and F. Xu, "PolSAR target recognition with CNNs optimizing discrete polarimetric correlation pattern," *IEEE Transactions on Geoscience and Remote Sensing*, vol. 62, pp. 1–14, 2024.
 
@@ -93,9 +93,9 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
    
 1. <b><ins>H. Lin</ins></b>, J. Yin, and J. Yang, "Revisiting the Contribution of Polarimetric Information to Target Recognition for SAR Images," in *IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium*, Brisbane, Australia, 2025, pp. 9122–9125.
 
-2. Z. Xie, <b><ins>H. Lin*</ins></b>, and F. Xu, "SAR Target Recognition Network Based on Time-Frequency Domain Channel Attention Mechanism," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–6.
+2. Z. Xie, <b><ins>H. Lin\*</ins></b>, and F. Xu, "SAR Target Recognition Network Based on Time-Frequency Domain Channel Attention Mechanism," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–6.
 
-3. Z. Chen, <b><ins>H. Lin*</ins></b>, and F. Xu, "A Wavelet Feature Based SAR Ship Detection Algorithm in Sparse Framework," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–4.
+3. Z. Chen, <b><ins>H. Lin\*</ins></b>, and F. Xu, "A Wavelet Feature Based SAR Ship Detection Algorithm in Sparse Framework," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–4.
 
 4. <b><ins>H. Lin</ins></b>, Y. Xing, Z. Chen, J. Yin, and J. Yang, "Edge Attention Superpixel Segmentation for Polarimetric SAR Images," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, Athens, Greece, 2024, pp. 9770–9773.
 
