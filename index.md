@@ -52,7 +52,7 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 ---
 <!-- **H. Lin**, X. Su, Z. Zeng, C. Xing, and J. Yin, “Speckle2self: Learning self-supervised despeckling with attention mechanism for SAR images,” *Remote Sensing*, vol. 17, no. 23, p. 3840, 2025 -->
 ##  Publications
-###  *Journal Articles*
+####  *Journal Articles*
 1. <b><u>H. Lin</u></b>, J. Yin, and J. Yang, “Learning quaternion convolutional neural networks for PolSAR target recognition,” *IEEE Transactions on Aerospace and Electronic Systems*, 2025
 
 2. <b><u>H. Lin</u></b>, X. Su, Z. Zeng, C. Xing, and J. Yin, “Speckle2self: Learning self-supervised despeckling with attention mechanism for SAR images,” *Remote Sensing*, vol. 17, no. 23, p. 3840, 2025
@@ -89,31 +89,33 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 18. L. Zeng, Y. Du, <b><u>H. Lin</u></b>, J. Wang, J. Yin, and J. Yang, "A novel region-based image registration method for multisource remote sensing images via CNN," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 14, pp. 1821–1831, 2020.
 
-###  *Conference Papers*
+####   *Conference Papers*
 
-<b><u>H. Lin</u></b>, J. Yin, and J. Yang, "Revisiting the Contribution of Polarimetric Information to Target Recognition for SAR Images," in *IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium*, Brisbane, Australia, 2025, pp. 9122–9125.
+1. <b><u>H. Lin</u></b>, J. Yin, and J. Yang, "Revisiting the Contribution of Polarimetric Information to Target Recognition for SAR Images," in *IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium*, Brisbane, Australia, 2025, pp. 9122–9125.
+   
+1. <b><u>H. Lin</u></b>, J. Yin, and J. Yang, "Revisiting the Contribution of Polarimetric Information to Target Recognition for SAR Images," in *IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium*, Brisbane, Australia, 2025, pp. 9122–9125.
 
-Z. Xie, <b><u>H. Lin</u></b>, and F. Xu, "SAR Target Recognition Network Based on Time-Frequency Domain Channel Attention Mechanism," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–6.
+2. Z. Xie, <b><u>H. Lin</u></b>, and F. Xu, "SAR Target Recognition Network Based on Time-Frequency Domain Channel Attention Mechanism," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–6.
 
-Z. Chen, <b><u>H. Lin</u></b>, and F. Xu, "A Wavelet Feature Based SAR Ship Detection Algorithm in Sparse Framework," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–4.
+3. Z. Chen, <b><u>H. Lin</u></b>, and F. Xu, "A Wavelet Feature Based SAR Ship Detection Algorithm in Sparse Framework," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–4.
 
-<b><u>H. Lin</u></b>, Y. Xing, Z. Chen, J. Yin, and J. Yang, "Edge Attention Superpixel Segmentation for Polarimetric SAR Images," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, Athens, Greece, 2024, pp. 9770–9773.
+4. <b><u>H. Lin</u></b>, Y. Xing, Z. Chen, J. Yin, and J. Yang, "Edge Attention Superpixel Segmentation for Polarimetric SAR Images," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, Athens, Greece, 2024, pp. 9770–9773.
 
-<b><u>H. Lin</u></b> and H. Wang, "A Novel Target Recognition Method with Polarimetric Correlation Phase for SAR Images," in *IET Conference Proceedings CP874*, vol. 2023, no. 47, 2023, pp. 1152–1156.
+5. <b><u>H. Lin</u></b> and H. Wang, "A Novel Target Recognition Method with Polarimetric Correlation Phase for SAR Images," in *IET Conference Proceedings CP874*, vol. 2023, no. 47, 2023, pp. 1152–1156.
 
-<b><u>H. Lin</u></b>, J. Yin, H. Wang, and J. Yang, "Edge Detection in PolSAR Images Based on Polarimetric Nonsubsampled Contourlet Transform," in *IET Conference Proceedings CP874*, vol. 2023, no. 47, 2023, pp. 2817–2820.
+6. <b><u>H. Lin</u></b>, J. Yin, H. Wang, and J. Yang, "Edge Detection in PolSAR Images Based on Polarimetric Nonsubsampled Contourlet Transform," in *IET Conference Proceedings CP874*, vol. 2023, no. 47, 2023, pp. 2817–2820.
 
-<b><u>H. Lin</u></b>, H. Wang, H. Chen, J. Yin, and J. Yang, "Ship Detection for Polarimetric SAR Images Via Graph-Based Sparse Manifold Ranking," in *IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium*, Yokohama, Japan, 2019, pp. 2193–2196.
+7. <b><u>H. Lin</u></b>, H. Wang, H. Chen, J. Yin, and J. Yang, "Ship Detection for Polarimetric SAR Images Via Graph-Based Sparse Manifold Ranking," in *IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium*, Yokohama, Japan, 2019, pp. 2193–2196.
 
-<b><u>H. Lin</u></b>, J. Bao, J. Yin, and J. Yang, "Superpixel Segmentation with Boundary Constraints for Polarimetric SAR Images," in *IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium*, Valencia, Spain, 2018, pp. 6195–6198.
+8. <b><u>H. Lin</u></b>, J. Bao, J. Yin, and J. Yang, "Superpixel Segmentation with Boundary Constraints for Polarimetric SAR Images," in *IGARSS 2018 - 2018 IEEE International Geoscience and Remote Sensing Symposium*, Valencia, Spain, 2018, pp. 6195–6198.
 
-Y. Xing, <b><u>H. Lin</u></b>, J. Zhu, F. Wang, F. Xu, and W. Jiang, "Multisource Data Integration of Sentinel-1 and Sentinel-2 for Above Ground Biomass Inversion," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–4.
+9. Y. Xing, <b><u>H. Lin</u></b>, J. Zhu, F. Wang, F. Xu, and W. Jiang, "Multisource Data Integration of Sentinel-1 and Sentinel-2 for Above Ground Biomass Inversion," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–4.
 
-Y. Xing, <b><u>H. Lin</u></b>, F. Xue, F. Wang, and F. Xu, "A Forest Parameter Inversion Method Based on Double-Bounce Scattering Components of Polarimetric P-Band SAR Data," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, Athens, Greece, 2024, pp. 3599–3603.
+10. Y. Xing, <b><u>H. Lin</u></b>, F. Xue, F. Wang, and F. Xu, "A Forest Parameter Inversion Method Based on Double-Bounce Scattering Components of Polarimetric P-Band SAR Data," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, Athens, Greece, 2024, pp. 3599–3603.
 
-Y. Wang, H. Jia, S. Fu, <b><u>H. Lin</u></b>, and F. Xu, "Differentiable SAR Renderer Embedded Reinforcement Learning for View Angles Inversion in SAR Images," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, Athens, Greece, 2024, pp. 1992–1995.
+11. Y. Wang, H. Jia, S. Fu, <b><u>H. Lin</u></b>, and F. Xu, "Differentiable SAR Renderer Embedded Reinforcement Learning for View Angles Inversion in SAR Images," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, Athens, Greece, 2024, pp. 1992–1995.
 
-R. Li, <b><u>H. Lin</u></b>, J. Wei, and F. Xu, "Utilizing Multisource Data: Inversion of Surface Texture Parameters and Generation of Multi-Angle SAR Images Through Physical Models," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, Athens, Greece, 2024, pp. 3058–3061.
+12. R. Li, <b><u>H. Lin</u></b>, J. Wei, and F. Xu, "Utilizing Multisource Data: Inversion of Surface Texture Parameters and Generation of Multi-Angle SAR Images Through Physical Models," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, Athens, Greece, 2024, pp. 3058–3061.
 
 
 ---
