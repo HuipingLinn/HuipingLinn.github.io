@@ -90,14 +90,12 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 18. L. Zeng, Y. Du, <b><u>H. Lin</u></b>, J. Wang, J. Yin, and J. Yang, "A novel region-based image registration method for multisource remote sensing images via CNN," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 14, pp. 1821–1831, 2020.
 
 ####   *Conference Papers*
-
-1. <b><u>H. Lin</u></b>, J. Yin, and J. Yang, "Revisiting the Contribution of Polarimetric Information to Target Recognition for SAR Images," in *IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium*, Brisbane, Australia, 2025, pp. 9122–9125.
    
 1. <b><u>H. Lin</u></b>, J. Yin, and J. Yang, "Revisiting the Contribution of Polarimetric Information to Target Recognition for SAR Images," in *IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium*, Brisbane, Australia, 2025, pp. 9122–9125.
 
-2. Z. Xie, <b><u>H. Lin</u></b>, and F. Xu, "SAR Target Recognition Network Based on Time-Frequency Domain Channel Attention Mechanism," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–6.
+2. Z. Xie, <b><u>H. Lin*</u></b>, and F. Xu, "SAR Target Recognition Network Based on Time-Frequency Domain Channel Attention Mechanism," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–6.
 
-3. Z. Chen, <b><u>H. Lin</u></b>, and F. Xu, "A Wavelet Feature Based SAR Ship Detection Algorithm in Sparse Framework," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–4.
+3. Z. Chen, <b><u>H. Lin*</u></b>, and F. Xu, "A Wavelet Feature Based SAR Ship Detection Algorithm in Sparse Framework," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–4.
 
 4. <b><u>H. Lin</u></b>, Y. Xing, Z. Chen, J. Yin, and J. Yang, "Edge Attention Superpixel Segmentation for Polarimetric SAR Images," in *IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium*, Athens, Greece, 2024, pp. 9770–9773.
 
