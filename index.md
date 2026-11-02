@@ -83,11 +83,13 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 
 15. <b><ins>H. Lin</ins></b>, S. Song, and J. Yang, "Ship classification based on MSHOG feature and task-driven dictionary learning with structured incoherent constraints in SAR images," *Remote Sensing*, vol. 10, no. 2, p. 190, 2018
 
-16. Y. Xing, <b><ins>H. Lin</ins></b>, F. Wang, F. Xue, and F. Xu, "SAR2Canopy: A framework integrating scattering model with neural networks for canopy height estimation from airborne p-band SAR data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025
+16. Y. Xing, <b><ins>H. Lin</ins></b>, and Y. Zhang, “PhySR-Bio: Multi-Stage Physics-Aware Symbolic Regression for Interpretable SAR-Based Forest Biomass Retrieval,” *Remote Sensing*, vol. 18, no. 21, p. 3685, 2026
 
-17. R. Li, J. Wei, H., <b><ins>H. Lin</ins></b> and F. Xu, "Learning terrain scattering models from massive multi-source earth observation data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025
+17. Y. Xing, <b><ins>H. Lin</ins></b>, F. Wang, F. Xue, and F. Xu, "SAR2Canopy: A framework integrating scattering model with neural networks for canopy height estimation from airborne p-band SAR data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025
 
-18. L. Zeng, Y. Du, <b><ins>H. Lin</ins></b>, J. Wang, J. Yin, and J. Yang, "A novel region-based image registration method for multisource remote sensing images via CNN," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 14, pp. 1821–1831, 2020
+18. R. Li, J. Wei, H., <b><ins>H. Lin</ins></b> and F. Xu, "Learning terrain scattering models from massive multi-source earth observation data," *IEEE Transactions on Geoscience and Remote Sensing*, 2025
+
+19. L. Zeng, Y. Du, <b><ins>H. Lin</ins></b>, J. Wang, J. Yin, and J. Yang, "A novel region-based image registration method for multisource remote sensing images via CNN," *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, vol. 14, pp. 1821–1831, 2020
 
 ####   *Conference Papers*
    
