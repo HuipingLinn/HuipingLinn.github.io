@@ -92,7 +92,9 @@ SAR image understanding and interpretation, polarimetric SAR target detection an
 ####   *Conference Papers*
    
 1. Y. Fang, X. Xu, X. Su, Z. Zeng, <b><ins>H. Lin\*</ins></b>, “Beyond DS-YOLO: Boosting SAR Ship Detection via Self-Supervised Despeckling Learning,” in *IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium*, Washington D.C., USA, 2026, pp. 5866–5870
+
 2. X. Xu, X. Su, Y. Fang, <b><ins>H. Lin\*</ins></b>, Z. Chen, “Enhancing SAR Ship Detection: Frequency-Domain Features Meet Scale-Sensitive Loss,” in *IGARSS 2026 - 2026 IEEE International Geoscience and Remote Sensing Symposium*, Washington D.C., USA, 2026, pp. 5055–5059
+
 3. <b><ins>H. Lin</ins></b>, J. Yin, and J. Yang, "Revisiting the Contribution of Polarimetric Information to Target Recognition for SAR Images," in *IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium*, Brisbane, Australia, 2025, pp. 9122–9125.
 
 4. Z. Xie, <b><ins>H. Lin\*</ins></b>, and F. Xu, "SAR Target Recognition Network Based on Time-Frequency Domain Channel Attention Mechanism," in *2024 IEEE International Conference on Signal, Information and Data Processing (ICSIDP)*, Zhuhai, China, 2024, pp. 1–6.
